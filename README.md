@@ -8,10 +8,12 @@
 
 <br><br>
 
-<a href="https://soumiltewari.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-7D2AE8?style=for-the-badge&labelColor=0B0B14"></a>
-<a href="https://github.com/Soumil-Tewari"><img src="https://img.shields.io/badge/GITHUB-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://img.shields.io/badge/LINKEDIN-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/SoumilTewari"><img src="https://img.shields.io/badge/X-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=x&logoColor=white"></a>
+<div align="center">
+<a href="https://soumiltewari.netlify.app"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=PORTFOLIO%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Portfolio"></a>
+<a href="https://github.com/Soumil-Tewari"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=GITHUB%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=LINKEDIN%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="LinkedIn"></a>
+<a href="https://twitter.com/SoumilTewari"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=X%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="X"></a>
+</div>
 
 </div>
 
@@ -117,7 +119,7 @@ MSIX packaging
 
 Microsoft Store release
 
-<a href="https://apps.microsoft.com/detail/9PGNBF9CVQ7V?hl=en-us&gl=US&ocid=pdpshare"><img src="https://img.shields.io/badge/OPEN%20CAHIER%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=microsoft&logoColor=white"></a>
+<a href="https://apps.microsoft.com/detail/9PGNBF9CVQ7V?hl=en-us&gl=US&ocid=pdpshare"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=190&section=header&text=OPEN%20CAHIER%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Open Cahier"></a>
 
 <hr>
 
@@ -161,8 +163,8 @@ The entire pipeline:
 
 Market Data → Processing → FastAPI → PostgreSQL → React Native → User
 
-<a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.Quantaroo"><img src="https://img.shields.io/badge/GOOGLE%20PLAY%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=googleplay&logoColor=white"></a>
-<a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.Quantaroo"><img src="https://img.shields.io/badge/GALAXY%20STORE%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=samsung&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.Quantaroo"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=GOOGLE%20PLAY%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Google Play"></a>
+<a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.Quantaroo"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=190&section=header&text=GALAXY%20STORE%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="Galaxy Store"></a>
 
 <hr>
 
@@ -184,9 +186,9 @@ Google Play · Samsung Galaxy Store · Amazon Appstore
 
 What started as a student project became a real product, reached users across multiple stores and kept evolving over the years.
 
-<a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.mathmagic"><img src="https://img.shields.io/badge/GOOGLE%20PLAY%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=googleplay&logoColor=white"></a>
-<a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.mathmagic"><img src="https://img.shields.io/badge/GALAXY%20STORE%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=samsung&logoColor=white"></a>
-<a href="https://www.amazon.in/Math-Magic-Exponents-measurements-trigonometry/dp/B09R1X7GN9"><img src="https://img.shields.io/badge/AMAZON%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=amazon&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.mathmagic"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=GOOGLE%20PLAY%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Google Play"></a>
+<a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.mathmagic"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=190&section=header&text=GALAXY%20STORE%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="Galaxy Store"></a>
+<a href="https://www.amazon.in/Math-Magic-Exponents-measurements-trigonometry/dp/B09R1X7GN9"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=AMAZON%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Amazon"></a>
 
 <hr>
 
@@ -204,7 +206,7 @@ Technology
 
 React Native, Expo, AsyncStorage, JavaScript, React Native Paper
 
-<a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.slate"><img src="https://img.shields.io/badge/VIEW%20ON%20GOOGLE%20PLAY%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=googleplay&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.slate"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=GOOGLE%20PLAY%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="View Slate on Google Play"></a>
 
 <hr>
 
@@ -240,7 +242,7 @@ In-app music
 
 Fully offline, with no cloud dependency.
 
-<a href="https://apps.microsoft.com/detail/9p7746r09rd6"><img src="https://img.shields.io/badge/OPEN%20PRODUCTIVITY%20TRACKER%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=microsoft&logoColor=white"></a>
+<a href="https://apps.microsoft.com/detail/9p7746r09rd6"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=210&section=header&text=OPEN%20TRACKER%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Open Productivity Tracker"></a>
 
 <hr>
 
@@ -319,7 +321,7 @@ A beginner-focused Python programming book that I wrote and self-published throu
 
 I published it when I was 16.
 
-<a href="https://www.amazon.in/dp/B0BKL9KY4J"><img src="https://img.shields.io/badge/READ%20THE%20BOOK%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=amazon&logoColor=white"></a>
+<a href="https://www.amazon.in/dp/B0BKL9KY4J"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=190&section=header&text=READ%20THE%20BOOK%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Read the book"></a>
 
 <hr>
 
@@ -368,10 +370,10 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 
 <div align="center">
 
-<a href="https://soumiltewari.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-7D2AE8?style=for-the-badge&labelColor=0B0B14"></a>
-<a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://img.shields.io/badge/LINKEDIN-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/SoumilTewari"><img src="https://img.shields.io/badge/X-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=x&logoColor=white"></a>
-<a href="https://www.instagram.com/soumiltewari/"><img src="https://img.shields.io/badge/INSTAGRAM-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=instagram&logoColor=white"></a>
+<a href="https://soumiltewari.netlify.app"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=PORTFOLIO%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=LINKEDIN%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="LinkedIn"></a>
+<a href="https://twitter.com/SoumilTewari"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=180&section=header&text=X%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="X"></a>
+<a href="https://www.instagram.com/soumiltewari/"><img src="https://capsule-render.vercel.app/api?type=rounded&height=52&width=190&section=header&text=INSTAGRAM%20%E2%86%97&fontSize=15&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="Instagram"></a>
 
 <br><br>
 
