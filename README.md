@@ -43,7 +43,7 @@ CGPA / 10
 </tr>
 </table>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 👋 Hey, I'm Soumil
 
@@ -59,7 +59,7 @@ I've been building software since 2021, starting with Android applications and g
 
 I don't just like writing code. I like shipping software.
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 ⚡ How I Build
 
@@ -71,7 +71,7 @@ IDEA → DESIGN → BUILD → DATABASE + API → CLOUD → DEPLOY → USERS → 
 
 I enjoy working across the stack because the interesting problems usually live between the layers.
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 🚀 Selected Work
 
@@ -119,7 +119,7 @@ Microsoft Store release
 
 <a href="https://apps.microsoft.com/detail/9PGNBF9CVQ7V?hl=en-us&gl=US&ocid=pdpshare"><img src="https://img.shields.io/badge/OPEN%20CAHIER%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=microsoft&logoColor=white"></a>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 📈 Quantaroo
 
@@ -164,7 +164,7 @@ Market Data → Processing → FastAPI → PostgreSQL → React Native → User
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.Quantaroo"><img src="https://img.shields.io/badge/GOOGLE%20PLAY%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=googleplay&logoColor=white"></a>
 <a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.Quantaroo"><img src="https://img.shields.io/badge/GALAXY%20STORE%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=samsung&logoColor=white"></a>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 🧮 Math Magic
 
@@ -188,7 +188,7 @@ What started as a student project became a real product, reached users across mu
 <a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.mathmagic"><img src="https://img.shields.io/badge/GALAXY%20STORE%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=samsung&logoColor=white"></a>
 <a href="https://www.amazon.in/Math-Magic-Exponents-measurements-trigonometry/dp/B09R1X7GN9"><img src="https://img.shields.io/badge/AMAZON%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=amazon&logoColor=white"></a>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 📝 Slate
 
@@ -206,7 +206,7 @@ React Native Expo AsyncStorage JavaScript React Native Paper
 
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.slate"><img src="https://img.shields.io/badge/VIEW%20ON%20GOOGLE%20PLAY%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=googleplay&logoColor=white"></a>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 ⏱️ Productivity Time Tracker
 
@@ -242,7 +242,7 @@ Fully offline, with no cloud dependency.
 
 <a href="https://apps.microsoft.com/detail/9p7746r09rd6"><img src="https://img.shields.io/badge/OPEN%20PRODUCTIVITY%20TRACKER%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=microsoft&logoColor=white"></a>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 🧰 Tech Stack
 
@@ -272,7 +272,7 @@ Also working with
 
 Monaco Editor · BullMQ · Socket.IO · XeLaTeX · WebView2 · Dexie · GraphView · LiveCharts · Gemini SDK
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 🏗️ Systems I Like Building
 
@@ -309,7 +309,7 @@ Docker Nginx Linux HTTPS DNS Redis BullMQ GitHub Actions Oracle Cloud
 
 localhost is not production.
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 📚 Beyond Software
 
@@ -321,7 +321,7 @@ I published it when I was 16.
 
 <a href="https://www.amazon.in/dp/B0BKL9KY4J"><img src="https://img.shields.io/badge/READ%20THE%20BOOK%20↗-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=amazon&logoColor=white"></a>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 🎓 Currently
 
@@ -334,7 +334,7 @@ Interested in
 
 Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · Developer Tools · Research
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 📊 GitHub Activity
 
@@ -352,7 +352,7 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 
 </div>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 🏆 By the Numbers
 
@@ -370,7 +370,7 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 
 </div>
 
-<div align="center"><hr width="80%"></div>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 ---
 
 🌐 Let's Connect
