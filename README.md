@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=250&section=header&text=Soumil%20Tewari&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&section=header&text=Soumil%20Tewari&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
 
 <br>
 
@@ -305,7 +305,7 @@ Monaco Editor · BullMQ · Socket.IO · XeLaTeX · WebView2 · Dexie · GraphVie
 
 Infrastructure I've worked with
 
-Docker, Nginx, Linux, HTTPS, DNS, Redis, BullMQ, GitHub Actions, Oracle Cloud
+Docker Nginx Linux HTTPS DNS Redis BullMQ GitHub Actions Oracle Cloud
 
 localhost is not production.
 
