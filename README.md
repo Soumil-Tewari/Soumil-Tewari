@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=SOUMIL%20TEWARI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=Soumil%20Tewari&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
 
 <br>
 
@@ -174,7 +174,7 @@ Started in 2021, Math Magic is an Android educational application covering topic
 
 Technology
 
-Java XML Android SDK GraphView AdMob
+Java, XML, Android SDK, GraphView, AdMob
 
 5,000+ downloads
 
@@ -202,7 +202,7 @@ Create, manage, share and store notes locally using AsyncStorage. Designed aroun
 
 Technology
 
-React Native Expo AsyncStorage JavaScript React Native Paper
+React Native, Expo, AsyncStorage, JavaScript, React Native Paper
 
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.slate"><img src="https://img.shields.io/badge/VIEW%20ON%20GOOGLE%20PLAY%20↗-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=googleplay&logoColor=white"></a>
 
@@ -218,7 +218,7 @@ Make consistency visible.
 
 Technology
 
-C# XAML WinUI 3 Windows App SDK SQLite WebView2 LiveCharts
+C#, XAML, WinUI 3, Windows App SDK, SQLite, WebView2, LiveCharts
 
 Features
 
@@ -344,14 +344,6 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Soumil-Tewari/Soumil-Tewari/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-
-</div>
-
 <hr>
 
 🏆 By the Numbers
@@ -371,7 +363,6 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 </div>
 
 <hr>
----
 
 🌐 Let's Connect
 
