@@ -348,7 +348,7 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Soumil-Tewari/Soumil-Tewari/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/Soumil-Tewari/Soumil-Tewari/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
 </div>
 
