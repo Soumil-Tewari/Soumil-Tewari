@@ -1,186 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1D4ED8&height=230&section=header&text=Soumil%20Tewari&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20actually%20ship.&descAlignY=61&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:2563EB&height=230&section=header&text=Soumil%20Tewari&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=I%20build%20things%20that%20actually%20ship.&descAlignY=61&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=CS+%40+VIT+Vellore;Mobile+%7C+Web+%7C+Desktop+%7C+Cloud;Building+software%2C+not+just+projects.;Idea+%E2%86%92+Code+%E2%86%92+Production" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=1100&color=64748B&center=true&vCenter=true&width=720&lines=CS+%40+VIT+Vellore;Mobile+%7C+Web+%7C+Desktop+%7C+Cloud;Building+software%2C+not+just+projects.;Idea+%E2%86%92+Code+%E2%86%92+Production" alt="Typing SVG"/>
 
 <br/>
 <br/>
 
 <a href="https://soumiltewari.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-%E2%86%97-0B1220?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Soumil-Tewari">
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%E2%86%97-0B1220?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/soumiltewari">
-<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-0B1220?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://twitter.com/SoumilTewari">
-<img src="https://img.shields.io/badge/X-0B1220?style=flat-square&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-%E2%86%97-0B1220?style=flat-square&logo=x&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/soumiltewari/">
-<img src="https://img.shields.io/badge/Instagram-0B1220?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-%E2%86%97-0B1220?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
+<br/>
+
+## Hey, I'm Soumil 👋
+
+I'm a Computer Science student at **VIT Vellore** who likes taking an idea from *"this could be useful"* to something people can actually install and use.
+
+I don't particularly enjoy building projects that only live inside a folder called `final_final_v2`.
+
+I like shipping.
+
+I've built across **Android, React Native, web, Windows, backend systems, databases, cloud infrastructure and AI**, and I enjoy going all the way down the stack when a project needs it.
+
+I started building seriously in **2021**.
+
+Since then, I've gone from making Android apps to building full-stack products, cloud backends, native Windows applications and developer tools.
+
+Still figuring out what to build next.
+
 ---
 
-## Hey, I'm Soumil.
-
-I'm a Computer Science student at **VIT Vellore** and I like building software from the ground up.
-
-Mobile apps.
-Desktop apps.
-Backends.
-Cloud infrastructure.
-Developer tools.
-AI integrations.
-
-Basically, if I can turn an idea into something people can actually install, use, or interact with, I'm interested.
-
-I started building software seriously in 2021 with **Math Magic**. Since then I've gone from Android development into full-stack systems, cloud deployment, native Windows development and distributed backend architecture.
-
-I still prefer building over talking about building.
-
----
-
-## What I build
+## 🧑‍💻 What I actually do
 
 ```text
-mobile ────────┐
-web ───────────┤
-desktop ───────┤
-backend ───────┼──────► production
-cloud ─────────┤
-databases ─────┤
-AI ────────────┘
+Idea
+  ↓
+Design
+  ↓
+Code
+  ↓
+Database
+  ↓
+Backend
+  ↓
+Cloud
+  ↓
+Deployment
+  ↓
+Users
+  ↓
+"Oh wait, something broke."
+  ↓
+Debug
+  ↓
+Ship again
 ```
 
-I enjoy working across the whole stack because the interesting problems usually happen **between** the layers.
+I enjoy the whole process.
 
-Frontend talks to backend.
+Not just writing the frontend.
 
-Backend talks to databases.
+Not just writing APIs.
 
-Jobs run in the background.
+Not just making something look good.
 
-Containers run in the cloud.
-
-Users find bugs you somehow never thought of.
-
-Then you fix them.
-
-That's the fun part.
+I like understanding **how all the pieces talk to each other**.
 
 ---
 
-# Featured work
+# 🚀 Things I've Built
 
-### 📓 Cahier
+## 📓 Cahier
 
-**A full-stack LaTeX IDE and Windows desktop application.**
+**Full-stack LaTeX IDE + Windows Desktop Application**
 
-Cahier started as an idea for a better LaTeX workflow and turned into one of my deepest engineering projects.
+Cahier is probably the project that pushed me the furthest technically.
+
+It combines a React/TypeScript IDE, a distributed cloud compilation backend and a native Windows application.
+
+**Stack**
 
 `React` `TypeScript` `Monaco Editor` `Node.js` `BullMQ` `Redis` `Docker` `XeLaTeX` `Socket.IO` `WinUI 3` `C#` `WebView2` `Oracle Cloud`
 
-Built with:
+### What went into it
 
 * Multi-file project management
-* Persistent editor tabs
-* File tree and drag & drop
+* Persistent tabs
+* File tree with drag & drop
 * IndexedDB persistence
 * PDF and media previews
 * Integrated compilation terminal
 * ZIP export
 * Dockerized XeLaTeX compilation
 * BullMQ + Redis job processing
-* Real-time compiler output with Socket.IO
+* Real-time compiler logs through Socket.IO
 * Native Windows integration through WebView2
 * Theme synchronization
-* Production cloud infrastructure
+* Production cloud deployment
 * MSIX packaging
 
+<br/>
+
 <a href="https://apps.microsoft.com/detail/9PGNBF9CVQ7V?hl=en-us&gl=US&ocid=pdpshare">
-<img src="https://img.shields.io/badge/Microsoft%20Store-View%20Cahier-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20ON%20MICROSOFT%20STORE-%E2%86%97-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
 </a>
 
 ---
 
-### 📈 Quantaroo
+## 📈 Quantaroo
 
-**A finance and stock market app built for people who actually want to understand what is happening in the market.**
+**Finance & Stock Market App**
 
-`React Native` `FastAPI` `PostgreSQL` `Firebase` `Gemini SDK` `Docker` `GitHub Actions` `Oracle Cloud`
+A cross-platform mobile application for retail investors with stock analytics, interactive charts, financial news and AI-generated summaries.
 
-The app combines market analytics, interactive charts, financial news and AI-generated summaries.
+**Stack**
 
-Built and shipped with:
+`React Native` `FastAPI` `PostgreSQL` `Firebase` `Gemini SDK` `Docker` `GitHub Actions` `Oracle Cloud` `AdMob`
+
+### Built around
 
 * Stock analytics
-* Interactive charts
+* Interactive trading charts
 * Financial news aggregation
 * AI-powered news summaries
 * Scheduled data processing
+* PostgreSQL financial data storage
 * Firebase authentication
-* PostgreSQL
-* Cloud deployment
 * Push notifications
+* Containerized backend
+* Cloud deployment
+* Automated jobs
 * AdMob monetization
 
+<br/>
+
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.Quantaroo">
-<img src="https://img.shields.io/badge/Google%20Play-View%20Quantaroo-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY-%E2%86%97-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.Quantaroo">
-<img src="https://img.shields.io/badge/Samsung%20Galaxy%20Store-View-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/GALAXY%20STORE-%E2%86%97-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
 </a>
 
 ---
 
-### 🧮 Math Magic
+## 🧮 Math Magic
 
 **The project that started it all.**
 
 Started in **2021**.
 
-An Android educational app covering mathematics through quizzes, equation solving, graphs and interactive learning tools.
+An Android educational application with interactive math quizzes, equation solving, graphs and coverage across exponents, trigonometry and measurements.
+
+**Stack**
 
 `Java` `XML` `Android SDK` `GraphView` `AdMob`
 
 And this one actually made it into people's hands.
 
-**5,000+ downloads across three app stores.**
+**5,000+ downloads across three platforms.**
 
 * Google Play
 * Samsung Galaxy Store
 * Amazon Appstore
 
+There is something special about this project for me.
+
+It started as a student project.
+
+It became a real application.
+
+And it kept evolving.
+
+<br/>
+
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.mathmagic">
-<img src="https://img.shields.io/badge/Google%20Play-Math%20Magic-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY-%E2%86%97-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.mathmagic">
-<img src="https://img.shields.io/badge/Galaxy%20Store-View-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/GALAXY%20STORE-%E2%86%97-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.amazon.in/Math-Magic-Exponents-measurements-trigonometry/dp/B09R1X7GN9">
-<img src="https://img.shields.io/badge/Amazon-Appstore-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMAZON-%E2%86%97-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
 </a>
 
 ---
 
-### 📝 Slate
+## 📝 Slate
 
 **Thoughts & Notes**
 
@@ -190,37 +219,56 @@ No attempt to turn a notes app into an operating system.
 
 Just a simple place to write things down.
 
+**Stack**
+
 `React Native` `Expo` `AsyncStorage`
 
+<br/>
+
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.slate">
-<img src="https://img.shields.io/badge/Google%20Play-View%20Slate-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY-%E2%86%97-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
 </a>
 
 ---
 
-### ⏱️ Productivity Time Tracker
+## ⏱️ Productivity Time Tracker
 
-**A native Windows productivity app built around one idea: make consistency visible.**
+**Native Windows Productivity Application**
+
+Built around one simple idea:
+
+**make consistency visible.**
+
+**Stack**
 
 `C#` `XAML` `WinUI 3` `Windows App SDK` `SQLite` `WebView2` `LiveCharts`
 
-Built for tracking:
+### Built for
 
 * Work sessions
-* Daily streaks
+* Daily targets
+* Streaks
 * Long-term goals
-* Productivity trends
-* Weekly, monthly and yearly analytics
+* Productivity analytics
+* Weekly, monthly and yearly insights
+* Local-first storage
+* In-app music
 
-It is fully offline and stores everything locally.
+Fully offline.
+
+No cloud dependency.
+
+Just the app and your data.
+
+<br/>
 
 <a href="https://apps.microsoft.com/detail/9p7746r09rd6">
-<img src="https://img.shields.io/badge/Microsoft%20Store-View%20Productivity%20Time%20Tracker-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20ON%20MICROSOFT%20STORE-%E2%86%97-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
 </a>
 
 ---
 
-## My stack
+# 🛠️ My Toolbox
 
 <div align="center">
 
@@ -230,7 +278,7 @@ It is fully offline and stores everything locally.
 
 <br/><br/>
 
-### Frameworks & runtimes
+### Frameworks & Runtimes
 
 <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,fastapi,android" />
 
@@ -244,67 +292,66 @@ It is fully offline and stores everything locally.
 
 <br/>
 
-And a few things that don't fit neatly into an icon grid:
+And then there is the stuff that doesn't fit neatly into a logo wall:
 
 `Monaco Editor` · `BullMQ` · `Socket.IO` · `XeLaTeX` · `WebView2` · `Dexie` · `GraphView` · `LiveCharts` · `Gemini SDK`
 
 ---
 
-## ☁️ The part I enjoy most
+# ☁️ I like going beyond the frontend
 
-Getting everything to work together.
-
-For example, Cahier isn't just a React application.
-
-It's more like:
+One of my favourite parts of building projects is making the pieces actually talk to each other.
 
 ```text
-                 ┌──────────────┐
-                 │ React + TS   │
-                 │ Monaco       │
-                 └──────┬───────┘
-                        │
-                        ▼
-                 ┌──────────────┐
-                 │   Node.js    │
-                 │    API       │
-                 └──────┬───────┘
-                        │
-              ┌─────────┴─────────┐
-              ▼                   ▼
-       ┌─────────────┐     ┌─────────────┐
-       │ BullMQ      │     │  Socket.IO  │
-       └──────┬──────┘     └─────────────┘
-              │
-              ▼
-       ┌─────────────┐
-       │    Redis    │
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │    Docker   │
-       │  XeLaTeX    │
-       └──────┬──────┘
-              │
-              ▼
-            PDF
+                 ┌─────────────────┐
+                 │   Mobile / Web  │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    REST APIs    │
+                 └────────┬────────┘
+                          │
+                ┌─────────┴─────────┐
+                ▼                   ▼
+         ┌──────────────┐    ┌──────────────┐
+         │   Backend    │    │ Background   │
+         │ Node/FastAPI │    │    Jobs      │
+         └──────┬───────┘    └──────┬───────┘
+                │                   │
+                ▼                   ▼
+         ┌──────────────┐    ┌──────────────┐
+         │ PostgreSQL   │    │ Redis / Queue│
+         └──────────────┘    └──────────────┘
+                │
+                ▼
+         ┌──────────────┐
+         │ Cloud / Docker│
+         └──────────────┘
 ```
 
-That kind of architecture is where I have the most fun.
+I've deployed applications using:
+
+`Docker` `Nginx` `Linux` `HTTPS` `DNS` `Redis` `BullMQ` `GitHub Actions` `Oracle Cloud`
+
+Because eventually every developer discovers the same ancient truth:
+
+> localhost is not production.
 
 ---
 
-# 📚 I also wrote a book
+# 📚 Beyond Code
 
-### Python Programming Handbook for Beginners
+## Python Programming Handbook for Beginners
 
 I wrote and self-published a beginner-focused Python programming book through **Amazon KDP**.
 
 I was **16** when I published it.
 
+<br/>
+
 <a href="https://www.amazon.in/dp/B0BKL9KY4J">
-<img src="https://img.shields.io/badge/Amazon-Read%20the%20Book-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/READ%20THE%20BOOK-%E2%86%97-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
 </a>
 
 ---
@@ -326,7 +373,7 @@ Currently interested in:
 `Developer Tools`
 `Research`
 
-I'm also starting to explore research projects where software and computational models can be used to study real-world problems.
+I'm also exploring research where software, data and computational models can be used to study real-world problems.
 
 ---
 
@@ -334,9 +381,9 @@ I'm also starting to explore research projects where software and computational 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soumil-Tewari&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soumil-Tewari&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumil-Tewari&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumil-Tewari&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170"/>
 
 <br/><br/>
 
@@ -356,54 +403,48 @@ I'm also starting to explore research projects where software and computational 
 
 ---
 
-# A few numbers
+# 🏆 A few numbers
 
 <div align="center">
 
-|     |                                       |
-| :-: | :------------------------------------ |
-|  🎓 | **9.19 / 10** CGPA                    |
-|  📱 | **5,000+** Math Magic downloads       |
-|  🚀 | **5** production applications shipped |
-|  🪟 | Microsoft Store releases              |
-|  📚 | Published technical book              |
-|  💻 | Building since **2021**               |
+**9.19 / 10** CGPA
+**5,000+** Math Magic downloads
+**5** production applications shipped
+**1** technical book published
 
 </div>
 
 ---
 
-# 🌐 Elsewhere
+# 🌐 Find me
 
 <div align="center">
 
 <a href="https://soumiltewari.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-soumiltewari.netlify.app-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%97-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/Soumil-Tewari">
-<img src="https://img.shields.io/badge/GitHub-Soumil--Tewari-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+ 
 
 <a href="https://linkedin.com/in/soumiltewari">
-<img src="https://img.shields.io/badge/LinkedIn-Soumil%20Tewari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-%E2%86%97-0B1220?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+ 
 
 <a href="https://twitter.com/SoumilTewari">
-<img src="https://img.shields.io/badge/X-@SoumilTewari-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-%E2%86%97-0B1220?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://www.instagram.com/soumiltewari/">
-<img src="https://img.shields.io/badge/Instagram-@soumiltewari-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-%E2%86%97-0B1220?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -411,6 +452,6 @@ I'm also starting to explore research projects where software and computational 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0B1220&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1220&height=130&section=footer" width="100%"/>
 
 </div>
