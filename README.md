@@ -11,6 +11,7 @@
 <a href="https://soumiltewari.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-7D2AE8?style=for-the-badge&labelColor=0B0B14"></a>
 <a href="https://github.com/Soumil-Tewari"><img src="https://img.shields.io/badge/GITHUB-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://img.shields.io/badge/LINKEDIN-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/SoumilTewari"><img src="https://img.shields.io/badge/X-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=x&logoColor=white"></a>
 
 </div>
 
