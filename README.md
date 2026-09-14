@@ -35,7 +35,7 @@
 
 ## Hey, I'm Soumil 👋
 
-I'm a Computer Science student at **VIT Vellore** who likes taking an idea from *"this could be useful"* to something people can actually install and use.
+I'm a Computer Science student at **VIT Vellore** who likes taking an idea from *"this could be useful"* to an actual application that people can install and use.
 
 I don't particularly enjoy building projects that only live inside a folder called `final_final_v2`.
 
@@ -93,9 +93,9 @@ I like understanding **how all the pieces talk to each other**.
 
 ## 📓 Cahier
 
-**Full-stack LaTeX IDE + Windows Desktop Application**
+**Full-stack LaTeX IDE & Windows Desktop Application**
 
-Cahier is probably the project that pushed me the furthest technically.
+Cahier is one of the projects that pushed me the furthest technically.
 
 It combines a React/TypeScript IDE, a distributed cloud compilation backend and a native Windows application.
 
@@ -106,7 +106,7 @@ It combines a React/TypeScript IDE, a distributed cloud compilation backend and 
 ### What went into it
 
 * Multi-file project management
-* Persistent tabs
+* Persistent editor tabs
 * File tree with drag & drop
 * IndexedDB persistence
 * PDF and media previews
@@ -116,14 +116,16 @@ It combines a React/TypeScript IDE, a distributed cloud compilation backend and 
 * BullMQ + Redis job processing
 * Real-time compiler logs through Socket.IO
 * Native Windows integration through WebView2
+* Custom title-bar integration
 * Theme synchronization
 * Production cloud deployment
 * MSIX packaging
+* Microsoft Store release
 
 <br/>
 
 <a href="https://apps.microsoft.com/detail/9PGNBF9CVQ7V?hl=en-us&gl=US&ocid=pdpshare">
-<img src="https://img.shields.io/badge/VIEW%20ON%20MICROSOFT%20STORE-%E2%86%97-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20CAHIER%20%20%E2%86%97-2563EB?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 ---
@@ -132,7 +134,7 @@ It combines a React/TypeScript IDE, a distributed cloud compilation backend and 
 
 **Finance & Stock Market App**
 
-A cross-platform mobile application for retail investors with stock analytics, interactive charts, financial news and AI-generated summaries.
+A cross-platform mobile application for retail investors offering daily stock analytics, interactive trading charts and AI-summarized financial news.
 
 **Stack**
 
@@ -153,14 +155,20 @@ A cross-platform mobile application for retail investors with stock analytics, i
 * Automated jobs
 * AdMob monetization
 
+The interesting part wasn't just making another stock app.
+
+It was making the whole pipeline work.
+
+**Data → Processing → Backend → Database → Mobile → Users**
+
 <br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.Quantaroo">
-<img src="https://img.shields.io/badge/GOOGLE%20PLAY-%E2%86%97-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY%20%20%E2%86%97-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.Quantaroo">
-<img src="https://img.shields.io/badge/GALAXY%20STORE-%E2%86%97-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/GALAXY%20STORE%20%20%E2%86%97-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
 </a>
 
 ---
@@ -171,7 +179,7 @@ A cross-platform mobile application for retail investors with stock analytics, i
 
 Started in **2021**.
 
-An Android educational application with interactive math quizzes, equation solving, graphs and coverage across exponents, trigonometry and measurements.
+An Android educational application with interactive math quizzes, a step-by-step equation solver and coverage across exponents, trigonometry and measurements.
 
 **Stack**
 
@@ -181,7 +189,7 @@ And this one actually made it into people's hands.
 
 **5,000+ downloads across three platforms.**
 
-* Google Play
+* Google Play Store
 * Samsung Galaxy Store
 * Amazon Appstore
 
@@ -193,18 +201,20 @@ It became a real application.
 
 And it kept evolving.
 
+That is probably where my obsession with actually shipping software started.
+
 <br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.mathmagic">
-<img src="https://img.shields.io/badge/GOOGLE%20PLAY-%E2%86%97-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY%20%20%E2%86%97-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://apps.samsung.com/appquery/appDetail.as?appId=com.techxappsbusiness.mathmagic">
-<img src="https://img.shields.io/badge/GALAXY%20STORE-%E2%86%97-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
+<img src="https://img.shields.io/badge/GALAXY%20STORE%20%20%E2%86%97-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.amazon.in/Math-Magic-Exponents-measurements-trigonometry/dp/B09R1X7GN9">
-<img src="https://img.shields.io/badge/AMAZON-%E2%86%97-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMAZON%20APPSTORE%20%20%E2%86%97-232F3E?style=for-the-badge&logo=amazon&logoColor=white"/>
 </a>
 
 ---
@@ -226,7 +236,7 @@ Just a simple place to write things down.
 <br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.techxappsbusiness.slate">
-<img src="https://img.shields.io/badge/GOOGLE%20PLAY-%E2%86%97-34A853?style=flat-square&logo=googleplay&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY%20%20%E2%86%97-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
 
 ---
@@ -248,7 +258,7 @@ Built around one simple idea:
 * Work sessions
 * Daily targets
 * Streaks
-* Long-term goals
+* Long-term productivity goals
 * Productivity analytics
 * Weekly, monthly and yearly insights
 * Local-first storage
@@ -263,7 +273,7 @@ Just the app and your data.
 <br/>
 
 <a href="https://apps.microsoft.com/detail/9p7746r09rd6">
-<img src="https://img.shields.io/badge/VIEW%20ON%20MICROSOFT%20STORE-%E2%86%97-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PRODUCTIVITY%20TIME%20TRACKER%20%20%E2%86%97-2563EB?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
 ---
@@ -303,31 +313,31 @@ And then there is the stuff that doesn't fit neatly into a logo wall:
 One of my favourite parts of building projects is making the pieces actually talk to each other.
 
 ```text
-                 ┌─────────────────┐
-                 │   Mobile / Web  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    REST APIs    │
-                 └────────┬────────┘
-                          │
-                ┌─────────┴─────────┐
-                ▼                   ▼
-         ┌──────────────┐    ┌──────────────┐
-         │   Backend    │    │ Background   │
-         │ Node/FastAPI │    │    Jobs      │
-         └──────┬───────┘    └──────┬───────┘
-                │                   │
-                ▼                   ▼
-         ┌──────────────┐    ┌──────────────┐
-         │ PostgreSQL   │    │ Redis / Queue│
-         └──────────────┘    └──────────────┘
-                │
-                ▼
-         ┌──────────────┐
-         │ Cloud / Docker│
-         └──────────────┘
+                    ┌─────────────────┐
+                    │   Mobile / Web  │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    REST APIs    │
+                    └────────┬────────┘
+                             │
+                  ┌──────────┴──────────┐
+                  ▼                     ▼
+          ┌──────────────┐      ┌──────────────┐
+          │   Backend    │      │ Background   │
+          │ Node/FastAPI │      │    Jobs      │
+          └──────┬───────┘      └──────┬───────┘
+                 │                     │
+                 ▼                     ▼
+          ┌──────────────┐      ┌──────────────┐
+          │ PostgreSQL   │      │ Redis / Queue│
+          └──────────────┘      └──────────────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │ Cloud / Docker│
+          └──────────────┘
 ```
 
 I've deployed applications using:
@@ -351,7 +361,7 @@ I was **16** when I published it.
 <br/>
 
 <a href="https://www.amazon.in/dp/B0BKL9KY4J">
-<img src="https://img.shields.io/badge/READ%20THE%20BOOK-%E2%86%97-232F3E?style=flat-square&logo=amazon&logoColor=white"/>
+<img src="https://img.shields.io/badge/READ%20THE%20BOOK%20%20%E2%86%97-232F3E?style=for-the-badge&logo=amazon&logoColor=white"/>
 </a>
 
 ---
@@ -421,25 +431,25 @@ I'm also exploring research where software, data and computational models can be
 <div align="center">
 
 <a href="https://soumiltewari.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%97-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO%20%20%E2%86%97-0B1220?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
  
 
 <a href="https://linkedin.com/in/soumiltewari">
-<img src="https://img.shields.io/badge/LINKEDIN-%E2%86%97-0B1220?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN%20%20%E2%86%97-0B1220?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="https://twitter.com/SoumilTewari">
-<img src="https://img.shields.io/badge/X-%E2%86%97-0B1220?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X%20%20%E2%86%97-0B1220?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
  
 
 <a href="https://www.instagram.com/soumiltewari/">
-<img src="https://img.shields.io/badge/INSTAGRAM-%E2%86%97-0B1220?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM%20%20%E2%86%97-0B1220?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -455,3 +465,4 @@ I'm also exploring research where software, data and computational models can be
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1220&height=130&section=footer" width="100%"/>
 
 </div>
+
