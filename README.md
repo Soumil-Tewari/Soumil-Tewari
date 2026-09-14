@@ -1,47 +1,42 @@
+
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=250&section=header&text=Soumil%20Tewari&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=230&section=header&text=Soumil%20Tewari&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=64&descSize=15&animation=fadeIn&color=0:0B0B14,35:35136F,65:7D2AE8,100:00C4CC" width="100%" alt="Soumil Tewari">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=760&lines=Computer+Science+%40+VIT+Vellore;Mobile+%7C+Web+%7C+Desktop+%7C+Cloud;From+idea+to+production;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat" alt="Typing SVG">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=760&lines=Computer+Science+%40+VIT+Vellore;Mobile+%7C+Web+%7C+Desktop+%7C+Cloud;From+idea+to+production;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat" alt="Typing SVG">
-
-<br><br>
-
-<a href="https://soumiltewari.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-7D2AE8?style=for-the-badge&labelColor=0B0B14"></a>
-<a href="https://github.com/Soumil-Tewari"><img src="https://img.shields.io/badge/GITHUB-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://img.shields.io/badge/LINKEDIN-00C4CC?style=for-the-badge&labelColor=0B0B14&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/SoumilTewari"><img src="https://img.shields.io/badge/X-7D2AE8?style=for-the-badge&labelColor=0B0B14&logo=x&logoColor=white"></a>
+<a href="https://soumiltewari.netlify.app"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=PORTFOLIO%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="Portfolio"></a>
+<a href="https://github.com/Soumil-Tewari"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=GITHUB%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/soumiltewari/"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=LINKEDIN%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:00C4CC,100:35136F" alt="LinkedIn"></a>
+<a href="https://twitter.com/SoumilTewari"><img src="https://capsule-render.vercel.app/api?type=rounded&height=58&width=200&section=header&text=X%20%E2%86%97&fontSize=16&fontColor=FFFFFF&fontAlignY=52&animation=fadeIn&color=0:7D2AE8,100:35136F" alt="X"></a>
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<table align="center"> <tr> <td align="center" width="33%">
 
 5+
 
 Apps shipped
 
-</td>
-<td align="center" width="33%">
+</td> <td align="center" width="33%">
 
 5K+
 
 Math Magic downloads
 
-</td>
-<td align="center" width="33%">
+</td> <td align="center" width="33%">
 
 9.19
 
 CGPA / 10
 
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
 <hr>
 
@@ -250,25 +245,19 @@ Fully offline, with no cloud dependency.
 
 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,cs,c,sql&theme=dark&perline=8" alt="Languages">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,cs,c,sql&theme=dark&perline=8" alt="Languages"> </p>
 
 <br><br>
 
 Frameworks & Platforms
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,android&theme=dark&perline=6" alt="Frameworks and Platforms">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,android&theme=dark&perline=6" alt="Frameworks and Platforms"> </p>
 
 <br><br>
 
 Infrastructure
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,redis,docker,nginx,firebase,githubactions,oracle&theme=dark&perline=7" alt="Infrastructure">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,nginx,firebase,githubactions,oracle&theme=dark&perline=7" alt="Infrastructure"> </p>
 
 </div>
 
@@ -308,7 +297,6 @@ Monaco Editor · BullMQ · Socket.IO · XeLaTeX · WebView2 · Dexie · GraphVie
             ┌────────────────┐
             │ Docker / Cloud │
             └────────────────┘
-
 Infrastructure I've worked with
 
 Docker Nginx Linux HTTPS DNS Redis BullMQ GitHub Actions Oracle Cloud
@@ -356,15 +344,7 @@ Software Engineering · Systems · AI / LLMs · Data · Cloud Infrastructure · 
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%"><strong>2021</strong><br><sub>Started building</sub></td>
-<td align="center" width="20%"><strong>5+</strong><br><sub>Apps shipped</sub></td>
-<td align="center" width="20%"><strong>5K+</strong><br><sub>Downloads</sub></td>
-<td align="center" width="20%"><strong>9.19</strong><br><sub>CGPA / 10</sub></td>
-<td align="center" width="20%"><strong>1</strong><br><sub>Technical book</sub></td>
-</tr>
-</table>
+<table> <tr> <td align="center" width="20%"><strong>2021</strong><br><sub>Started building</sub></td> <td align="center" width="20%"><strong>5+</strong><br><sub>Apps shipped</sub></td> <td align="center" width="20%"><strong>5K+</strong><br><sub>Downloads</sub></td> <td align="center" width="20%"><strong>9.19</strong><br><sub>CGPA / 10</sub></td> <td align="center" width="20%"><strong>1</strong><br><sub>Technical book</sub></td> </tr> </table>
 
 </div>
 
