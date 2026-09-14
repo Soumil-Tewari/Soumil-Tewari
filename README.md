@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=250&section=header&text=Soumil%20Tewari&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&section=header&text=Soumil%20Tewari&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE%20THAT%20ACTUALLY%20SHIPS&descAlignY=61&descSize=16&animation=fadeIn&color=0:0B0B14,45:35136F,75:7D2AE8,100:00C4CC" width="100%"/>
 
 <br>
 
@@ -250,19 +250,25 @@ Fully offline, with no cloud dependency.
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,cs,c,sql&theme=dark&perline=8">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,cs,c,sql&theme=dark&perline=8" alt="Languages">
+</p>
 
 <br><br>
 
 Frameworks & Platforms
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,android&theme=dark&perline=6">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,android&theme=dark&perline=6" alt="Frameworks and Platforms">
+</p>
 
 <br><br>
 
 Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgresql,redis,docker,nginx,firebase,githubactions,oracle&theme=dark&perline=7">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,redis,docker,nginx,firebase,githubactions,oracle&theme=dark&perline=7" alt="Infrastructure">
+</p>
 
 </div>
 
@@ -276,32 +282,32 @@ Monaco Editor · BullMQ · Socket.IO · XeLaTeX · WebView2 · Dexie · GraphVie
 
 🏗️ Systems I Like Building
 
-                         ┌─────────────────────┐
-                         │     USER / APP      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      REST API       │
-                         └──────────┬──────────┘
-                                    │
-                         ┌──────────┴──────────┐
-                         │                     │
-                         ▼                     ▼
-                ┌────────────────┐    ┌────────────────┐
-                │    Backend     │    │ Background Jobs│
-                │ Node / FastAPI │    │ BullMQ / Redis │
-                └───────┬────────┘    └───────┬────────┘
-                        │                     │
-                        ▼                     ▼
-                ┌────────────────┐    ┌────────────────┐
-                │   PostgreSQL   │    │   Processing   │
-                └───────┬────────┘    └────────────────┘
-                        │
-                        ▼
-                ┌────────────────┐
-                │ Docker / Cloud │
-                └────────────────┘
+                     ┌─────────────────────┐
+                     │     USER / APP      │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │      REST API       │
+                     └──────────┬──────────┘
+                                │
+                     ┌──────────┴──────────┐
+                     │                     │
+                     ▼                     ▼
+            ┌────────────────┐    ┌────────────────┐
+            │    Backend     │    │ Background Jobs│
+            │ Node / FastAPI │    │ BullMQ / Redis │
+            └───────┬────────┘    └───────┬────────┘
+                    │                     │
+                    ▼                     ▼
+            ┌────────────────┐    ┌────────────────┐
+            │   PostgreSQL   │    │   Processing   │
+            └───────┬────────┘    └────────────────┘
+                    │
+                    ▼
+            ┌────────────────┐
+            │ Docker / Cloud │
+            └────────────────┘
 
 Infrastructure I've worked with
 
