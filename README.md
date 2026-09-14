@@ -305,7 +305,7 @@ Monaco Editor · BullMQ · Socket.IO · XeLaTeX · WebView2 · Dexie · GraphVie
 
 Infrastructure I've worked with
 
-Docker Nginx Linux HTTPS DNS Redis BullMQ GitHub Actions Oracle Cloud
+Docker, Nginx, Linux, HTTPS, DNS, Redis, BullMQ, GitHub Actions, Oracle Cloud
 
 localhost is not production.
 
